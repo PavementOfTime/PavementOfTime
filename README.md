@@ -1,2 +1,3 @@
-Hello! I'm Luke. I don't really have a consistent username x.x
-I am trying to learn some rust so I can rust all over the place 🦀
+Hello! I'm Luke. I don't really have a consistent username, but if you see a LukeTheNuke1111, or TimePavement/PavementOfTime, it could be me.
+I'm trying to learn some C++ currently, but I'm also learning how to use Godot, and I didn't really understand how to make C++ work with godot, so...
+I'm also familiar with Java.
