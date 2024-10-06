@@ -1,3 +1,5 @@
-Hello! I'm Luke. I don't really have a consistent username, but if you see a LukeTheNuke1111, or TimePavement/PavementOfTime, it could be me.
-I'm trying to learn some C++ currently, but I'm also learning how to use Godot, and I didn't really understand how to make C++ work with godot, so...
-I'm also familiar with Java.
+- Hello! I'm Luke.
+- I usually have the username of PavementOfTime, sometimes TimePavement if I can snatch that, and possibly LukeTheNuke1111
+- I am interested in Software Development, Game Design, Web Development, and honestly general CS.
+- I know Java primarily, but have been learning some C++ and Rust. :3
+- "It's okay to cry. It's okay to run away. You were not made that strong." -The Battle Cats
